@@ -9,3 +9,6 @@ Cursos:
 - Waldemar Neto [Node.js API testável](https://www.youtube.com/playlist?list=PLz_YTBuxtxt74aOA2W8ArqZpsPlxP-JC9)
     [Git link](https://github.com/waldemarnt/testable-nodejs-api)
 
+
+Materiais:
+- Fazer Requisições para API, testar. Ferrmaneta Muito Cmopleta [insomnia](https://insomnia.rest/download/)
