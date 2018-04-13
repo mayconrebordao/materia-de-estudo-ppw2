@@ -15,6 +15,9 @@ Cursos:
 
 - Ronan Luiz link youtube [Node JS - Curso Completo](https://www.youtube.com/playlist?list=PLGnV2JjmTelmnsZ0tPBkMNoEDGXwjgX_f),
     Thiago Porto intrutor do curso pela Acadtec [link pro repositorio](https://github.com/Acadtec/nodejs)
+    
+- Balta.io, link youtube [Curso: Criando APIs com NodeJs](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn),
+    [Link pro Repositório](https://github.com/balta-io/1972)
 
 - Jackson Pires - Udemy [Entendendo e documentando REST / RESTful APIs](https://www.udemy.com/restful-apis/)
 
