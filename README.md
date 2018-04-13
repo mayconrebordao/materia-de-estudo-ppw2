@@ -23,9 +23,7 @@ Cursos:
 
 Materiais:
 - Editores de Texto:
-    - Sublimete text 3 [link](sublimetext.com)
-    
+    - Sublimete text 3 [link](https://sublimetext.com)    
     - VS Code Microsoft [link](https://code.visualstudio.com/download)
-    
     - Atom [link](https://atom.io/)
 - Fazer Requisições para API, testar. Ferrmaneta Muito Completa [Insomnia](https://insomnia.rest/download/)
