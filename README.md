@@ -26,4 +26,4 @@ Materiais:
     - Sublimete text 3 [link](https://sublimetext.com)    
     - VS Code Microsoft [link](https://code.visualstudio.com/download)
     - Atom [link](https://atom.io/)
-- Fazer Requisições para API, testar. Ferrmaneta Muito Completa [Insomnia](https://insomnia.rest/download/)
+- Para fazer Requisições para API, testar. Ferrmaneta Muito Completa [Insomnia](https://insomnia.rest/download/)
