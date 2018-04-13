@@ -14,5 +14,7 @@ Cursos:
 
 - Ronan Luiz [Node JS - Curso Completo](https://www.youtube.com/playlist?list=PLGnV2JjmTelmnsZ0tPBkMNoEDGXwjgX_f)
 
+- Jackson Pires - Udemy[Entendendo e documentando REST / RESTful APIs](https://www.udemy.com/restful-apis/)
+
 Materiais:
 - Fazer Requisições para API, testar. Ferrmaneta Muito Completa [Insomnia](https://insomnia.rest/download/)
