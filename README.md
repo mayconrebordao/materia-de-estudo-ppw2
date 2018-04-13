@@ -18,6 +18,9 @@ Cursos:
     
 - Balta.io, link youtube [Curso: Criando APIs com NodeJs](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn),
     [Link pro Repositório](https://github.com/balta-io/1972)
+    
+- Andrew Van Slaars [RiotJS](https://www.youtube.com/playlist?list=PLeSQRYsLv56LsZlgGx6whDcQ4xTDHlTpV),
+     [Link pro Repositório](https://github.com/avanslaars/riot_intro_demo.git)
 
 - Jackson Pires - Udemy [Entendendo e documentando REST / RESTful APIs](https://www.udemy.com/restful-apis/)
 
